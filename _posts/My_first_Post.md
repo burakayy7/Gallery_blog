@@ -1,7 +1,7 @@
 ---
 navigation: true
-cover: 'assets/images/mainUnit1.jpg'
-title: NeuralBike Update
-date: 2023-11-05
+cover: 'assets/images/Mar_4-Sunset.jpg'
+title: My First Post
+date: 2024-04-04
 class: post-template
 ---
